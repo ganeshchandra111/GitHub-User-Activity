@@ -41,3 +41,5 @@ exit
 
 * Uses the public GitHub API
 * Results are cached during runtime
+
+https://roadmap.sh/projects/github-user-activity
